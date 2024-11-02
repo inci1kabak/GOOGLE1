@@ -1,0 +1,43 @@
+.margin1{
+    margin-left:655px;
+  
+}
+
+table {
+    width: 90%; /* Tablonun genişliğini sayfanın tamamı yapar */
+    border-collapse: separate; /* Kenarları ayrı yapar */
+    border-spacing: 3px; /* Hücreler arasındaki boşluğu ayarlar */
+}
+th, td {
+   
+    padding: 0px; /* İç boşluk */
+    text-align: center; /* Yatay ortalama */
+    vertical-align: middle; /* Dikey ortalama */
+    height: 50px; /* Hücre yüksekliği ayarı */
+}
+
+table {
+    margin-left:70px;
+
+}
+
+
+.color1{
+    background-color: #EEEEEE;
+}
+
+.color2{
+    background-color: #7EE5DA;
+}
+
+.color3{
+    background-color:#70CCC2;
+}
+
+.color4{
+    background-color: #62B3AA;
+}
+
+.margin2 {
+    margin-left:750px;
+}
